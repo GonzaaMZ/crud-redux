@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye",
+      "precio": "500",
+      "id": 7
+    },
+    {
+      "nombre": "Jugo de Limón",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 10
+    },
+    {
+      "nombre": "Zapatillas Adidas",
+      "precio": 2500,
+      "id": 11
+    },
+    {
+      "nombre": "test",
+      "precio": 22,
+      "id": 12
+    },
+    {
+      "nombre": "test",
+      "precio": 22,
+      "id": 13
+    },
+    {
+      "nombre": "test",
+      "precio": 22,
+      "id": 14
+    },
+    {
+      "nombre": "Remera CSIR",
+      "precio": 3600,
+      "id": 15
+    }
+  ]
+}
